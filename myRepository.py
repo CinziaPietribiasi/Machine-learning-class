@@ -1,4 +1,4 @@
-# il mio esempio di Python
+# Esercizio di Linear Regression
 from sklearn.linear_model import LinearRegression
 from sklearn.preprocessing import PolynomialFeatures
 from plotly import graph_objects as go
