@@ -1,5 +1,5 @@
-# Machine-learning-class-1
+# Machine-learning-class
 Folder associated to machine learning class
 
-## Il mio repository
+## Il mio repository di Python
 
